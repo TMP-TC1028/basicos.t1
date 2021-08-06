@@ -2,4 +2,4 @@
 # Ejercicios Básicos!
 
 - 02 Área Triángulo
-- 03 Premedio Calificaciones
+- 03 Promedio Calificaciones
